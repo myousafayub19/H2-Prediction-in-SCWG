@@ -7,9 +7,7 @@ itsdangerous
 Jinja2
 joblib
 MarkupSafe
-numpy
 packaging
-pandas
 python-dateutil
 pytz
 scikit-learn
@@ -19,5 +17,8 @@ threadpoolctl
 tzdata
 Werkzeug
 xgboost
-streamlit==1.19.0
+streamlit==1.18.0
 altair==4.2.2
+numpy==1.26.4
+pandas==1.5.3
+pyarrow==12.0.1
